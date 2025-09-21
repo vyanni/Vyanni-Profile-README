@@ -8,7 +8,7 @@ Welcome to my profile, and feel free to take a look around my profile and all my
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="C++"  />
@@ -23,19 +23,5 @@ Welcome to my profile, and feel free to take a look around my profile and all my
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"  />
   <img width="12" />
-  <img src="[https://cdn.worldvectorlogo.com/logos/jquery-4.svg](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)" height="40" alt="SQL"  />
-  <img width="12" />
 </div>
 
-
-<h3 align="center">Contact Me!</h3>
-
-<div align="left">
-  <a href="www.linkedin.com/in/vianney-susanto-255451384">
-  <img src="https://img.icons8.com/win8/200/7950F2/linkedin.png" height="40" alt="Link"  /> </a>
-  <img width="12" /> 
-
-  <a href="mailto:vsusanto@uwaterloo.ca">
-  <img src="[https://i.pinimg.com/originals/fc/cb/4b/fccb4b8a1ee3bfcf498b8dd27a925573.png](https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg)" height="40" alt="Email"  /> </a>
-  <img width="12" /> 
-</div>

@@ -4,7 +4,7 @@ Hey there, my name is Vianney Susanto and I'm currently a student at the Univers
 
 Welcome to my profile, and feel free to take a look around my profile and all my projects that I've worked on along the years!
 
-<h3 align="center">Programming Languages!</h3>
+<h3 align="center">My Programming Languages!</h3>
 
 ###
 
